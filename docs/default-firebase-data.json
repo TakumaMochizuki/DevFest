@@ -59,7 +59,7 @@
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+08:00"
+      "timezone" : "+03:00"
     },
     "messages" : { },
     "subscribers" : { },
