@@ -1,14 +1,14 @@
 {
   "organizer": {
-    "name": "GDG Taipei，台北 Google 開發者社群",
+    "name": "台灣 Android 開發讀書會 (TADSG)",
     "twitter": "taipei_gtug",
     "blog": "https://facebook.com/gdg.taipei/",
     "url": "http://www.taipei-gtug.org/"
   },
-  "startDate": "2018-11-17T09:00:00+08:00",
-  "endDate": "2018-11-17T19:00:00+08:00",
+  "startDate": "2013-09-23T09:00:00+08:00",
+  "endDate": "",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "TADSG",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },

@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://devfest-taipei-2018.firebaseapp.com/",
-  "analytics": "UA-124004035-1",
+  "url": "https://tadsg-android-taiwan.firebaseapp.com/",
+  "analytics": "",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyAwD3hcFlrbiYjhbjjB_GxbDMmStoEdsVE",
-    "authDomain": "devfest-taipei-2018.firebaseapp.com",
-    "databaseURL": "https://devfest-taipei-2018.firebaseio.com",
-    "projectId": "devfest-taipei-2018",
-    "storageBucket": "devfest-taipei-2018.appspot.com",
-    "messagingSenderId": "580281997420"
+    "apiKey": "AIzaSyCOIuyo38hlqFsfBgapitdBoOPOU2vGF3w",
+    "authDomain": "tadsg-android-taiwan.firebaseapp.com",
+    "databaseURL": "https://tadsg-android-taiwan.firebaseio.com",
+    "projectId": "tadsg-android-taiwan",
+    "storageBucket": "tadsg-android-taiwan.appspot.com",
+    "messagingSenderId": "886718298299"
   },
-  "googleMapApiKey": "AIzaSyAwD3hcFlrbiYjhbjjB_GxbDMmStoEdsVE"
+  "googleMapApiKey": "AIzaSyCOIuyo38hlqFsfBgapitdBoOPOU2vGF3w"
 }

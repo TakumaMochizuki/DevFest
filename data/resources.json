@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Taipei 2018",
-  "description": "加入 GDG，改變世界！",
+  "title": "台灣 Android 開發者讀書會",
+  "description": "原先的主旨是讓大家能力 up up，薪水也跟著 up up，現在變成都沒在讀書的討論會（還是有啦，但不止 Android）",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "2018 年 11 月 17 日",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, developer",
+  "dates": "2013 年 9 月",
   "partnershipProposition": "",
   "share": "分享",
   "followOur": "跟隨我們",
@@ -35,6 +35,11 @@
     {
       "title": "關於",
       "links": [
+        {
+          "name": "台灣 Android 開發讀書會 (TADSG)",
+          "url": "http://www.taipei-gtug.org/",
+          "newTab": true
+        }
         {
           "name": "台北 Google 開發者社群 (GDG Taipei)",
           "url": "http://www.taipei-gtug.org/",
