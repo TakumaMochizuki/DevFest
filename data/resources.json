@@ -74,6 +74,11 @@
           "name": "GDG DevFest Taipei 2017",
           "url": "http://devfest-taipei-2017.firebaseapp.com/",
           "newTab": true
+        },
+        {
+          "name": "GDG DevFest Taipei 2018",
+          "url": "http://devfest-taipei-2018.firebaseapp.com/",
+          "newTab": true
         }
       ]
     },

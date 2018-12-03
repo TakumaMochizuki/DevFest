@@ -149,11 +149,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/Taiwan-Android-Developer-Study-Group/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/gdg.taipei/"
+        "url": "https://www.facebook.com/groups/523386591081376/"
       },
       {
         "name": "twitter",
@@ -179,7 +179,7 @@
       }
     ]
   },
-  "mailto": "devfest.taipei@googlegroups.com",
+  "mailto": "tadsg201309@gmail.com",
   "signInProviders": {
     "providersData": [
       {
