@@ -39,7 +39,7 @@
           "name": "台灣 Android 開發讀書會 (TADSG)",
           "url": "http://www.taipei-gtug.org/",
           "newTab": true
-        }
+        },
         {
           "name": "台北 Google 開發者社群 (GDG Taipei)",
           "url": "http://www.taipei-gtug.org/",
@@ -101,10 +101,10 @@
   "subscribeNote": "最新資訊更新！",
   "codeOfConduct": "社群活動指引",
   "aboutBlock": {
-    "title": "在詢問前您所需要知道的事項。",
+    "title": "關於我們",
     "callToAction": {
       "featuredSessions": {
-        "description": "由台北 Google 開發者社群 (GDG Taipei)、女性資訊技術從業人員社群 (Women Techmakers)、台北 Google 雲端平台使用者社群 (GCPUG Taipei)、台灣 Android 開發者讀書會 (TADSG)、Golang Taiwan 以及台灣開放街圖 (OpenStreetMap Taiwan) 等台灣在地技術社群所提供給您最大的年度 Google 技術社群研討會，包含 Android、Firebase、網頁、雲端與 AI 人工智慧等技術內容！",
+        "description": "由一群專門挖坑的 Android 工程師共同維持每週三的 Code Club 與月會",
         "label": "瞭解精選議程",
         "link": ""
       },
