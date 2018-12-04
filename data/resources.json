@@ -1,7 +1,7 @@
 {
   "title": "台灣 Android 開發者讀書會",
   "description": "原先的主旨是讓大家能力 up up，薪水也跟著 up up，現在變成都沒在讀書的討論會（還是有啦，但不止 Android）",
-  "image": "images/social-share.jpg",
+  "image": "images/social-share.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, developer",
   "dates": "2013 年 9 月",
   "partnershipProposition": "",
@@ -11,7 +11,7 @@
   "emailUs": "寄信給我們",
   "partnershipResources": "贊助資源",
   "eventResources": "活動資源",
-  "buyTicket": "購買票卷",
+  "buyTicket": "贊助我們",
   "signIn": "登入",
   "signOut": "登出",
   "viewHighlights": "觀看精選內容",
@@ -61,8 +61,8 @@
       "title": "瞭解往年活動",
       "links": [
         {
-          "name": "GDG DevFest Taipei 2013",
-          "url": "http://www.taipei-gtug.org/meetings/google-devfest-taipei-2013",
+          "name": "TADSG 活動紀錄列表",
+          "url": "https://github.com/TADSG/Records",
           "newTab": true
         },
         {

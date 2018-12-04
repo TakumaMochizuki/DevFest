@@ -1,7 +1,7 @@
 {
   "basepath": "/",
   "url": "https://tadsg-android-taiwan.firebaseapp.com/",
-  "analytics": "",
+  "analytics": "UA-54089112-16",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyCOIuyo38hlqFsfBgapitdBoOPOU2vGF3w",
