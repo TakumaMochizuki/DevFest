@@ -9,239 +9,241 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="15.000002"
-   viewBox="0 0 48 15.000002"
    version="1.1"
-   id="SVGRoot"
+   id="svg3753"
+   xml:space="preserve"
+   width="90"
+   height="30"
+   viewBox="0 0 90.000003 30"
+   sodipodi:docname="logo-monochrome.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="logo-monochrome.svg">
-  <sodipodi:namedview
-     id="base"
+   style="enable-background:new"><metadata
+     id="metadata3759"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3757"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3769"><path
+         d="M 0,841.89 H 595.28 V 0 H 0 Z"
+         id="path3767"
+         inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="2.0310096"
-     inkscape:cy="3.2322336"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:window-width="1373"
+     inkscape:window-height="846"
+     id="namedview3755"
      showgrid="false"
-     inkscape:window-width="1423"
-     inkscape:window-height="863"
+     inkscape:zoom="9.4"
+     inkscape:cx="45"
+     inkscape:cy="15"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:grid-bbox="true"
+     inkscape:current-layer="g3765"
      fit-margin-top="0"
      fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <defs
-     id="defs981" />
-  <metadata
-     id="metadata984">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
+     fit-margin-right="24"
+     fit-margin-bottom="0" /><g
+     id="g3761"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1"
-     transform="translate(3.2652e-7,-0.49999912)">
-    <g
-       id="g3803-0"
-       transform="matrix(0.13147582,0,0,-0.13229148,14.907517,8)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 c 0,-31.311 -25.382,-56.693 -56.693,-56.693 -31.311,0 -56.693,25.382 -56.693,56.693 0,31.311 25.382,56.693 56.693,56.693 C -25.382,56.693 0,31.311 0,0"
-         style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3805-3"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3807-0"
-       transform="matrix(0.13147582,0,0,-0.13229148,7.4537715,15.499989)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 c 18.139,0 34.276,8.529 44.653,21.784 v 24.835 h -0.161 -88.654 -0.491 V 21.784 C -34.276,8.529 -18.139,0 0,0"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3809-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3811-9"
-       transform="matrix(0.13147582,0,0,-0.13229148,13.313754,8.875811)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="M 0,0 V 4.757 C -0.129,6.106 -0.333,7.437 -0.609,8.744 -3.052,20.316 -11.126,30.119 -22.2,35.811 l 6.812,12.567 c 0.422,0.779 0.133,1.752 -0.645,2.174 -0.779,0.422 -1.752,0.133 -2.174,-0.646 l -6.899,-12.727 c -5.862,2.52 -12.436,3.934 -19.383,3.934 -6.998,0 -13.62,-1.434 -19.516,-3.99 l -6.929,12.783 c -0.422,0.779 -1.396,1.068 -2.174,0.646 -0.779,-0.422 -1.068,-1.395 -0.646,-2.174 l 6.848,-12.634 c -10.555,-5.468 -18.365,-14.677 -21.135,-25.589 -0.719,-2.832 -1.1,-5.777 -1.1,-8.802 0,-0.453 0.011,-0.904 0.028,-1.353 z"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3813-8"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3815-6"
-       transform="matrix(0.13147582,0,0,-0.13229148,7.4537715,9.8676535)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 c -7.867,7.334 -18.401,11.834 -30.001,11.834 v -36.668 c 11.6,0 22.134,-4.5 30.001,-11.834 7.867,7.3 18.401,11.834 30.001,11.834 V 11.834 C 18.401,11.834 7.867,7.334 0,0"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3817-9"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3819-0"
-       transform="matrix(0.13147582,0,0,-0.13229148,10.124308,6.8680769)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
-         style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3821-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3823-6"
-       transform="matrix(0.13147582,0,0,-0.13229148,4.7832605,6.8680769)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
-         style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3825-4"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3827-4"
-       transform="matrix(0.13147582,0,0,-0.13229148,0.79158853,13.671268)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 v 0 c -3.875,3.874 -3.875,10.156 0,14.031 l 13.035,13.035 c 3.874,3.874 10.156,3.874 14.031,0 v 0 c 3.874,-3.875 3.874,-10.157 0,-14.031 L 14.031,0 C 10.156,-3.875 3.874,-3.875 0,0"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3829-8"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3831-6"
-       transform="matrix(0.13147582,0,0,-0.13229148,14.115953,13.671268)"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 v 0 c 3.874,3.874 3.875,10.156 0,14.031 l -13.035,13.035 c -3.874,3.874 -10.156,3.874 -14.031,0 v 0 c -3.874,-3.875 -3.874,-10.157 0,-14.031 L -14.031,0 C -10.156,-3.875 -3.874,-3.875 0,0"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3833-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.04353619px;line-height:1.25;font-family:Utopia;-inkscape-font-specification:'Utopia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.25108838"
-       x="16.98525"
-       y="11.925776"
-       id="text125"
-       transform="scale(0.95485858,1.0472755)"><tspan
-         sodipodi:role="line"
-         id="tspan123"
-         x="16.98525"
-         y="11.925776"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.04355049px;font-family:'Al Bayan';-inkscape-font-specification:'Al Bayan, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.25108838">TADSG</tspan><tspan
-         sodipodi:role="line"
-         x="16.98525"
-         y="24.690474"
-         style="fill:#88aa00;stroke-width:0.25108838"
-         id="tspan127" /></text>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,7.4537715,15.499989)"
-       id="g607">
-      <path
-         inkscape:connector-curvature="0"
-         id="path605"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c 18.139,0 34.276,8.529 44.653,21.784 v 24.835 h -0.161 -88.654 -0.491 V 21.784 C -34.276,8.529 -18.139,0 0,0" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,7.4537715,9.8676535)"
-       id="g615">
-      <path
-         inkscape:connector-curvature="0"
-         id="path613"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c -7.867,7.334 -18.401,11.834 -30.001,11.834 v -36.668 c 11.6,0 22.134,-4.5 30.001,-11.834 7.867,7.3 18.401,11.834 30.001,11.834 V 11.834 C 18.401,11.834 7.867,7.334 0,0" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,10.124308,6.8680769)"
-       id="g619">
-      <path
-         inkscape:connector-curvature="0"
-         id="path617"
-         style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,4.7832605,6.8680769)"
-       id="g623">
-      <path
-         inkscape:connector-curvature="0"
-         id="path621"
-         style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,0.79158853,13.671268)"
-       id="g627">
-      <path
-         inkscape:connector-curvature="0"
-         id="path625"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v 0 c -3.875,3.874 -3.875,10.156 0,14.031 l 13.035,13.035 c 3.874,3.874 10.156,3.874 14.031,0 v 0 c 3.874,-3.875 3.874,-10.157 0,-14.031 L 14.031,0 C 10.156,-3.875 3.874,-3.875 0,0" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
-       transform="matrix(0.13147582,0,0,-0.13229148,14.115953,13.671268)"
-       id="g631">
-      <path
-         inkscape:connector-curvature="0"
-         id="path629"
-         style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v 0 c 3.874,3.874 3.875,10.156 0,14.031 l -13.035,13.035 c -3.874,3.874 -10.156,3.874 -14.031,0 v 0 c -3.874,-3.875 -3.874,-10.157 0,-14.031 L -14.031,0 C -10.156,-3.875 -3.874,-3.875 0,0" />
-    </g>
-  </g>
-</svg>
+     inkscape:label="安卓讀書會logo_cs3"
+     transform="matrix(1.3333333,0,0,-1.3333333,-59.887732,389.47089)"><g
+       id="g3763"><g
+         id="g3765"
+         clip-path="url(#clipPath3769)"><g
+           id="g3771"
+           transform="translate(256.5438,757.7574)"><path
+             d="m 0,0 c 0,-31.311 -25.382,-56.693 -56.693,-56.693 -31.311,0 -56.693,25.382 -56.693,56.693 0,31.311 25.382,56.693 56.693,56.693 C -25.382,56.693 0,31.311 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3773"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3775"
+           transform="translate(199.8508,701.0645)"><path
+             d="m 0,0 c 18.139,0 34.276,8.529 44.653,21.784 v 24.835 h -0.161 -88.654 -0.491 V 21.784 C -34.276,8.529 -18.139,0 0,0"
+             style="fill:#dcdddd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3777"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3779"
+           transform="translate(244.4216,751.1371)"><path
+             d="M 0,0 V 4.757 C -0.129,6.106 -0.333,7.437 -0.609,8.744 -3.052,20.316 -11.126,30.119 -22.2,35.811 l 6.812,12.567 c 0.422,0.779 0.133,1.752 -0.645,2.174 -0.779,0.422 -1.752,0.133 -2.174,-0.646 l -6.899,-12.727 c -5.862,2.52 -12.436,3.934 -19.383,3.934 -6.998,0 -13.62,-1.434 -19.516,-3.99 l -6.929,12.783 c -0.422,0.779 -1.396,1.068 -2.174,0.646 -0.779,-0.422 -1.068,-1.395 -0.646,-2.174 l 6.848,-12.634 c -10.555,-5.468 -18.365,-14.677 -21.135,-25.589 -0.719,-2.832 -1.1,-5.777 -1.1,-8.802 0,-0.453 0.011,-0.904 0.028,-1.353 z"
+             style="fill:#dcdddd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3781"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3783"
+           transform="translate(199.8508,743.6397)"><path
+             d="m 0,0 c -7.867,7.334 -18.401,11.834 -30.001,11.834 v -36.668 c 11.6,0 22.134,-4.5 30.001,-11.834 7.867,7.3 18.401,11.834 30.001,11.834 V 11.834 C 18.401,11.834 7.867,7.334 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3785"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3787"
+           transform="translate(220.1629,766.3137)"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3789"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3791"
+           transform="translate(179.5391,766.3137)"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3793"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3795"
+           transform="translate(149.1785,714.8879)"><path
+             d="m 0,0 v 0 c -3.875,3.874 -3.875,10.156 0,14.031 l 13.035,13.035 c 3.874,3.874 10.156,3.874 14.031,0 v 0 c 3.874,-3.875 3.874,-10.157 0,-14.031 L 14.031,0 C 10.156,-3.875 3.874,-3.875 0,0"
+             style="fill:#dcdddd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3797"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3799"
+           transform="translate(250.5231,714.8879)"><path
+             d="m 0,0 v 0 c 3.874,3.874 3.875,10.156 0,14.031 l -13.035,13.035 c -3.874,3.874 -10.156,3.874 -14.031,0 v 0 c -3.874,-3.875 -3.874,-10.157 0,-14.031 L -14.031,0 C -10.156,-3.875 -3.874,-3.875 0,0"
+             style="fill:#dcdddd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3801"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3803"
+           transform="translate(134.2062,757.7574)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="m 0,0 c 0,-31.311 -25.382,-56.693 -56.693,-56.693 -31.311,0 -56.693,25.382 -56.693,56.693 0,31.311 25.382,56.693 56.693,56.693 C -25.382,56.693 0,31.311 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3805"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3807"
+           transform="translate(77.5133,701.0645)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="m 0,0 c 18.139,0 34.276,8.529 44.653,21.784 v 24.835 h -0.161 -88.654 -0.491 V 21.784 C -34.276,8.529 -18.139,0 0,0"
+             style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3809"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3811"
+           transform="translate(122.0841,751.1371)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="M 0,0 V 4.757 C -0.129,6.106 -0.333,7.437 -0.609,8.744 -3.052,20.316 -11.126,30.119 -22.2,35.811 l 6.812,12.567 c 0.422,0.779 0.133,1.752 -0.645,2.174 -0.779,0.422 -1.752,0.133 -2.174,-0.646 l -6.899,-12.727 c -5.862,2.52 -12.436,3.934 -19.383,3.934 -6.998,0 -13.62,-1.434 -19.516,-3.99 l -6.929,12.783 c -0.422,0.779 -1.396,1.068 -2.174,0.646 -0.779,-0.422 -1.068,-1.395 -0.646,-2.174 l 6.848,-12.634 c -10.555,-5.468 -18.365,-14.677 -21.135,-25.589 -0.719,-2.832 -1.1,-5.777 -1.1,-8.802 0,-0.453 0.011,-0.904 0.028,-1.353 z"
+             style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3813"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3815"
+           transform="translate(77.5133,743.6397)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="m 0,0 c -7.867,7.334 -18.401,11.834 -30.001,11.834 v -36.668 c 11.6,0 22.134,-4.5 30.001,-11.834 7.867,7.3 18.401,11.834 30.001,11.834 V 11.834 C 18.401,11.834 7.867,7.334 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3817"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3819"
+           transform="translate(97.8253,766.3137)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3821"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3823"
+           transform="translate(57.2015,766.3137)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3825"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3827"
+           transform="translate(26.841,714.8879)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="m 0,0 v 0 c -3.875,3.874 -3.875,10.156 0,14.031 l 13.035,13.035 c 3.874,3.874 10.156,3.874 14.031,0 v 0 c 3.874,-3.875 3.874,-10.157 0,-14.031 L 14.031,0 C 10.156,-3.875 3.874,-3.875 0,0"
+             style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3829"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3831"
+           transform="translate(128.1856,714.8879)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="m 0,0 v 0 c 3.874,3.874 3.875,10.156 0,14.031 l -13.035,13.035 c -3.874,3.874 -10.156,3.874 -14.031,0 v 0 c -3.874,-3.875 -3.874,-10.157 0,-14.031 L -14.031,0 C -10.156,-3.875 -3.874,-3.875 0,0"
+             style="fill:#9fc23f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3833"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3803-0"
+           transform="matrix(0.18488789,0,0,0.19843679,65.879499,280.8532)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             style="opacity:1;fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25539008"
+             d="M 13.976562,0 C 6.257864,0 0,6.7156609 0,15 c 0,2.657564 0.64867175,5.150343 1.7792969,7.314453 L 2.96875,21.037109 v -3.371093 h 0.1210938 3.4902343 v 0.761718 c 0.5739763,0.0384 1.1375062,0.283216 1.5761719,0.753907 0.9550076,1.025256 0.9550076,2.687898 0,3.71289 l -1.5761719,1.691407 v 0.720703 c 2.8595993,0 5.4571359,1.190412 7.3964839,3.130859 1.939351,-1.931451 4.534932,-3.130859 7.394532,-3.130859 v -0.720703 l -1.576172,-1.691407 c -0.955008,-1.024992 -0.955008,-2.687634 0,-3.71289 0.438334,-0.470335 1.002645,-0.715214 1.576172,-0.753907 v -0.761718 h 3.572265 0.04102 v 3.373046 l 1.1875,1.275391 C 27.302234,20.150145 27.951172,17.657913 27.951172,15 c 0,-8.2843391 -6.255911,-15 -13.97461,-15 z M 7.0917969,3.3261719 C 7.2451152,3.3102354 7.3985398,3.3922927 7.4765625,3.546875 L 9.1855469,6.9296875 C 10.639012,6.2534149 12.270966,5.8730469 13.996094,5.8730469 c 1.712555,0 3.33226,0.374268 4.777344,1.0410156 L 20.474609,3.546875 c 0.104029,-0.2061097 0.345074,-0.2815757 0.53711,-0.1699219 0.191791,0.1116539 0.262234,0.3681092 0.158203,0.5742188 l -1.679688,3.3261719 c 2.729931,1.5060028 4.720025,4.0984092 5.322266,7.1601562 0.06804,0.345809 0.11859,0.697764 0.150391,1.054688 v 1.259765 h -3.591797 v -1.148437 c -1.675757,0 -3.25603,0.419404 -4.671875,1.148437 H 11.251953 C 9.8361083,16.02292 8.255835,15.603516 6.5800781,15.603516 v 1.148437 H 2.9960938 c -0.00419,-0.118797 -0.00781,-0.239519 -0.00781,-0.359375 0,-0.800362 0.094239,-1.578828 0.2714844,-2.328125 C 3.9426132,11.17733 5.8687143,8.7416582 8.4707031,7.2949219 L 6.78125,3.9511719 C 6.6772197,3.7450623 6.7493695,3.488607 6.9414062,3.3769531 6.9893538,3.3490396 7.0406907,3.3314842 7.0917969,3.3261719 Z M 12.720703,17.666016 h 2.509766 c -0.440922,0.326495 -0.863141,0.677373 -1.253907,1.068359 -0.390763,-0.390986 -0.814937,-0.741864 -1.255859,-1.068359 z m -7.2695311,9.216796 c 0.1000691,0.08283 0.2005411,0.164189 0.3027343,0.244141 -0.1021973,-0.08003 -0.202661,-0.161232 -0.3027343,-0.244141 z"
+             transform="matrix(4.0565124,0,0,-3.7795412,-113.386,56.692989)"
+             id="path3805-3"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3807-0"
+           transform="translate(101.6089,269.60351)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" /><g
+           id="g3811-9"
+           transform="translate(146.1797,319.67611)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" /><g
+           id="g3815-6"
+           transform="matrix(0.18488789,0,0,0.19843679,55.397668,278.05173)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" /><g
+           id="g3819-0"
+           transform="matrix(0.18488789,0,0,0.19843679,59.153111,282.55109)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3821-1"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3823-6"
+           transform="matrix(0.18488789,0,0,0.19843679,51.642262,282.55109)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><path
+             d="M 0,0 C 2.316,0 4.194,-1.878 4.194,-4.194 4.194,-6.51 2.316,-8.388 0,-8.388 c -2.316,0 -4.194,1.878 -4.194,4.194 C -4.194,-1.878 -2.316,0 0,0"
+             style="fill:#231916;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3825-4"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3827-4"
+           transform="matrix(0.18488789,0,0,0.19843679,46.028973,272.34631)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" /><g
+           id="g3831-6"
+           transform="matrix(0.18488789,0,0,0.19843679,64.766363,272.34631)"
+           inkscape:export-filename="/Users/TakumaLee/Documents/work/TADSG/tadsglogo.svg.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.58690357px;line-height:1.25;font-family:Utopia;-inkscape-font-specification:'Utopia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.36467254"
+           x="73.250671"
+           y="-253.43349"
+           id="text125"
+           transform="scale(0.92453876,-1.0816204)"><tspan
+             sodipodi:role="line"
+             id="tspan123"
+             x="73.250671"
+             y="-253.43349"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.58692551px;font-family:'Al Bayan';-inkscape-font-specification:'Al Bayan, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.36467254">TADSG</tspan><tspan
+             sodipodi:role="line"
+             x="73.250671"
+             y="-234.89445"
+             style="fill:#88aa00;stroke-width:0.36467254"
+             id="tspan127" /></text>
+</g></g></g></svg>
